@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.KompyuterGrafikasi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.tat" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/white</item>
         <item name="colorPrimaryVariant">@color/white</item>
@@ -15,16 +15,16 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
-    <style name="Theme.KompyuterGrafikasi.NoActionBar">
+    <style name="Theme.tat.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
 
     </style>
 
-    <style name="Theme.KompyuterGrafikasi.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <style name="Theme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
 
     </style>
 
-    <style name="Theme.KompyuterGrafikasi.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+    <style name="Theme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
 </resources>

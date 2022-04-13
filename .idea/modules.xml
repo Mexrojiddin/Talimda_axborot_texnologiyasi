@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kompyuter grafikasi.iml" filepath="$PROJECT_DIR$/.idea/modules/Kompyuter grafikasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TAT.iml" filepath="$PROJECT_DIR$/.idea/modules/TAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TAT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TAT.app.iml" />
     </modules>
   </component>
 </project>
