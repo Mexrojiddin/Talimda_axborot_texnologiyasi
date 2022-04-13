@@ -1,0 +1,3 @@
+
+rootProject.name = "Kompyuter grafikasi"
+include ':app'
